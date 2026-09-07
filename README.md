@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td align="center" width="50%"><a href="https://github.com/leopozh/bert-bouncer"><img src="assets/bert-bouncer.png" width="420" alt="BERT Bouncer Grafana dashboard"></a><br><sub>BERT Bouncer</sub></td>
-    <td align="center" width="50%"><a href="https://github.com/leopozh/volatility-oss"><img src="assets/volatility.gif" width="420" alt="Volatility demo"></a><br><sub>Volatility</sub></td>
+    <td align="center" width="50%"><a href="https://github.com/leopozh/volatility-oss"><img src="assets/volatility.png" width="420" alt="Volatility strategy lab"></a><br><sub>Volatility</sub></td>
   </tr>
 </table>
 
