@@ -22,7 +22,7 @@
 
 - [**Ada**](https://github.com/machmoon/Ada): an AI hardware engineer that turns a plain-language spec into a manufacturable circuit board, where I built the retrieval layer and fabrication-order path on a hackathon team
 
-- [**Touchalytics**](https://github.com/leopozh/touchalytics): an Android app that recognizes you by how you swipe through a feed of cat photos
+- [**Touchalytics**](https://github.com/leopozh/touchalytics): an Android app that recognizes you by how you swipe through a feed of cat photos, where I built the Firebase enrollment pipeline and the ML side that turns each swipe into a feature vector and verifies it against your enrolled profile
 
 - [**BERT Bouncer**](https://github.com/leopozh/bert-bouncer): an on-device prompt-injection firewall for Claude Code
 
