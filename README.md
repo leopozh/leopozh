@@ -59,5 +59,9 @@ Varsity swimming (50 free, 100 free), scuba diving, rock climbing, hiking, hacka
 
 ## Contact me
 
-leo@pozhenko.com, 650-550-0212, [linkedin.com/in/leopoz](https://linkedin.com/in/leopoz)
+leo@pozhenko.com
+
+[linkedin.com/in/leopoz](https://linkedin.com/in/leopoz)
+
+650-550-0212
 
