@@ -54,9 +54,10 @@ Varsity swimming (50 free, 100 free), scuba diving, rock climbing, hiking, hacka
 <p>
   <img src="assets/swimming.jpg" height="150" alt="Swimming">
   <img src="assets/climbing.jpg" height="150" alt="Bouldering">
+  <img src="assets/hiking.jpg" height="150" alt="Hiking">
 </p>
 
 ## Contact me
 
-leo@pozhenko.com, [linkedin.com/in/leopoz](https://linkedin.com/in/leopoz)
+leo@pozhenko.com, 650-550-0212, [linkedin.com/in/leopoz](https://linkedin.com/in/leopoz)
 
