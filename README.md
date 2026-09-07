@@ -1,8 +1,8 @@
 # Hello! I'm Leo
 
-### A BS/MS student at RIT finishing both degrees in 4.5 years (my last semester will be 3 credits online).
+### A BS/MS student at RIT finishing both degrees in 4.5 years (my last semester will be 3 credits online)
 
-### My BS is in Software Engineering and ends in May 2027 and my MS is in Computer Science ending in December 2027.
+### My BS is in Software Engineering and ends in May 2027 and my MS is in Computer Science ending in December 2027
 
 ### Open to: Summer 2027 MS internships and full-time roles starting May 2027
 
