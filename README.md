@@ -26,7 +26,7 @@
 
 - [**BERT Bouncer**](https://github.com/leopozh/bert-bouncer): an on-device prompt-injection firewall for Claude Code
 
-- [**Volatility**](https://github.com/leopozh/volatility-oss): a local-first platform for backtesting trading strategies, with the statistics to tell a real edge from a lucky one
+- [**Volatility**](https://github.com/leopozh/volatility-oss): a local-first platform for backtesting trading strategies
 
 <table>
   <tr>
