@@ -43,7 +43,7 @@
 
 - [**Google JAX**](https://github.com/jax-ml/jax/pull/38287): device-mesh factorization fix, plus an [istft edge-case fix](https://github.com/jax-ml/jax/pull/38319)
 
-- [**Lightning AI TorchMetrics**](https://github.com/Lightning-AI/torchmetrics/pull/3406): top-k validation fix for multiclass metrics
+- [**Lightning AI TorchMetrics**](https://github.com/Lightning-AI/torchmetrics/pull/3406): top-k validation fix for multiclass metrics, merged
 
 - [**Roblox FAI-RL**](https://github.com/Roblox/FAI-RL/pull/91): import fix that made the test suite runnable, merged
 
