@@ -20,6 +20,8 @@
 
 ## Projects
 
+- [**Peel**](https://github.com/viktorinkov/HackMIT-2026): HackMIT 2026 Grand Prize winner, a low-cost device that checks whether medicine is real by watching a tablet dissolve through light, where I built the hardware, wrote the ESP32 firmware in C++, and designed the orange mascot on its face
+
 - [**Ada**](https://github.com/machmoon/Ada): an AI hardware engineer that turns a plain-language spec into a manufacturable circuit board, where I built the retrieval layer and fabrication-order path on a hackathon team
 
 - [**Touchalytics**](https://github.com/leopozh/touchalytics): an Android app that recognizes you by how you swipe through a feed of cat photos, where I built the Firebase enrollment pipeline and the ML side that turns each swipe into a feature vector and verifies it against your enrolled profile
@@ -29,6 +31,9 @@
 - [**Volatility**](https://github.com/leopozh/volatility-oss): a local-first platform for backtesting trading strategies
 
 <table>
+  <tr>
+    <td align="center" colspan="2"><a href="https://github.com/viktorinkov/HackMIT-2026"><img src="assets/peel.webp" width="640" alt="Peel, an orange-shaped dissolution tester with its mascot on the screen"></a><br><sub>Peel, HackMIT 2026 Grand Prize</sub></td>
+  </tr>
   <tr>
     <td align="center" width="50%"><a href="https://github.com/machmoon/Ada"><img src="assets/ada.png" width="420" alt="Ada, a KiCad board it produced"></a><br><sub>Ada</sub></td>
     <td align="center" width="50%"><a href="https://github.com/leopozh/touchalytics"><img src="assets/touchalytics.png" width="420" alt="Touchalytics login, enrollment, and verification screens"></a><br><sub>Touchalytics</sub></td>
