@@ -32,7 +32,7 @@
 
 <table>
   <tr>
-    <td align="center" colspan="2"><a href="https://github.com/viktorinkov/HackMIT-2026"><img src="assets/peel.webp" width="640" alt="Peel, an orange-shaped dissolution tester with its mascot on the screen"></a><br><sub>Peel, HackMIT 2026 Grand Prize</sub></td>
+    <td align="center" colspan="2"><a href="https://github.com/viktorinkov/HackMIT-2026"><img src="assets/peel-hackmit-2026.webp" width="720" alt="Peel at HackMIT 2026: the team on the first place stage, the orange device with its mascot, and build photos"></a><br><sub>Peel, HackMIT 2026 Grand Prize</sub></td>
   </tr>
   <tr>
     <td align="center" width="50%"><a href="https://github.com/machmoon/Ada"><img src="assets/ada.png" width="420" alt="Ada, a KiCad board it produced"></a><br><sub>Ada</sub></td>
