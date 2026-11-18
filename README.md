@@ -24,6 +24,8 @@
 
 - [**Lincoln**](https://github.com/3arii/hackprinceton-2026): HackPrinceton 2026 Best Sustainability Hack and Best Physical AI Hack winner, a solar-powered buoy that monitors water pollution, where I built the power pack and main boards and wrote the sensor firmware in C
 
+- [**BandIt**](https://github.com/viktorinkov/cal-hacks-13): Cal Hacks 13 SpacetimeDB track winner, an event wristband that maps a crowd and lights the way out when someone falls, where I built the SpacetimeDB module in Rust, the gateway bridge, and the 3D venue pipeline
+
 - [**Ada**](https://github.com/machmoon/Ada): an AI hardware engineer that turns a plain-language spec into a manufacturable circuit board, where I built the retrieval layer and fabrication-order path on a hackathon team
 
 - [**Touchalytics**](https://github.com/leopozh/touchalytics): an Android app that recognizes you by how you swipe through a feed of cat photos, where I built the Firebase enrollment pipeline and the ML side that turns each swipe into a feature vector and verifies it against your enrolled profile
@@ -38,6 +40,9 @@
   </tr>
   <tr>
     <td align="center" colspan="2"><a href="https://github.com/3arii/hackprinceton-2026"><img src="assets/lincoln-hackprinceton-2026.jpg" width="720" alt="The Lincoln team on stage at HackPrinceton Fall 2026 under the Best Sustainability Hack slide"></a><br><sub>Lincoln, HackPrinceton 2026 Best Sustainability Hack and Best Physical AI Hack</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><a href="https://github.com/viktorinkov/cal-hacks-13"><img src="assets/bandit-calhacks-13.gif" width="720" alt="BandIt at Cal Hacks 13: the wristbands lighting up, a fall turning them red, the venue hall, and the 3D venue model locating the fall"></a><br><sub>BandIt, Cal Hacks 13 SpacetimeDB track winner</sub></td>
   </tr>
   <tr>
     <td align="center" width="50%"><a href="https://github.com/machmoon/Ada"><img src="assets/ada.png" width="420" alt="Ada, a KiCad board it produced"></a><br><sub>Ada</sub></td>
